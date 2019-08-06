@@ -1,5 +1,5 @@
 # mipoll-Placement-for-3ds-max
-**i just ported it to 3DS MAX 2019, all credits goes to Nguyen Quoc Dung http://www.scriptspot.com/3ds-max/scripts/mipoll-placement**
+**i just ported it to 3DS MAX all versions, all credits goes to Nguyen Quoc Dung http://www.scriptspot.com/3ds-max/scripts/mipoll-placement**
 
 **Script to position an object accurately on the surface of another object**
 
